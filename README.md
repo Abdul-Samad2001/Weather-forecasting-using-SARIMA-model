@@ -1,1 +1,1 @@
-# Weather-forecasting-using-SARIMA-model
+# Weather-Prediction-using-SARIMA-model
